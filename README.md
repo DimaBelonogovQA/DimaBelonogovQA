@@ -1,6 +1,6 @@
 
-### Hi there 👋
+### Привет 👋
 
-**DimaBelonogovQA/DimaBelonogovQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**  На связи Дима Белоногов, не так давно начал постигать профессию инженер по тестиованию ПО
 
 
